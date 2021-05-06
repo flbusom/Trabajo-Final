@@ -39,7 +39,7 @@ document.getElementById('book-form')
 
     // Validating User Input
     if (title === '' || author === '' || isbn === '') {
-      ui.renderMessage('Porfavor, rellene todos los campos, gracais.', 'error', 3000);
+      ui.renderMessage('Porfavor, rellene todos los campos, gracias.', 'error', 3000);
     } else {
       // Pass the new book to the UI
       ui.addANewBook(formData);
@@ -54,7 +54,7 @@ document.getElementById('books-cards')
     const ui = new UI();
     if (e.target.classList.contains('delete')) {
       ui.deleteBook(e.target.getAttribute('_id'));
-      ui.renderMessage('Suscripcion elimianda correctamente', 'success', 3000);
+      ui.renderMessage('Suscripción eliminada correctamente', 'success', 3000);
     }
     e.preventDefault();
   });
