@@ -1,5 +1,6 @@
 .success, .error {
-  color: white;
+  /*color: white;*/
+  background-image: url("I:\DAW1\Mòdul 04 Llenguatge de marques i sistemes de gestió d'informació\Trabajo Final\Trabajo Final\Trabajo-Final\frontend\styles");
   padding: 10px;
   margin: 5px 0 15px 0;
 }
