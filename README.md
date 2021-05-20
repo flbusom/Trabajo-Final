@@ -8,9 +8,9 @@
 
 
 ## SUBIDA A HEROKU Y ENTREGA DE LA PRÁCTICA
-### Antes del próximo lunes 15 deberás terminar el proyecto, subirlo a Heroku, añadir el enlace a la
-### aplicación funcionando en el README.md, etiquetar el último commit con la etiqueta “v0.0” y
-### subirlo a GitHub.
+### Antes del próximo lunes 15 deberás terminar el proyecto, subirlo a Heroku, añadir el 
+### enlace a la aplicación funcionando en el README.md, etiquetar el último commit con la 
+### etiqueta “v0.0” y subirlo a GitHub.
 
 
 ### Deploying to Heroku
@@ -26,5 +26,5 @@
 
 
 # CREAR Y CONFIGURAR LA APP EN HEROKU
-### Ahora nos dirigimos a la página de Heroku y creamos una cuenta o iniciamos sesión si
-### ya la tenemos.
+### Ahora nos dirigimos a la página de Heroku y creamos una cuenta o 
+### iniciamos sesión si ya la tenemos.
